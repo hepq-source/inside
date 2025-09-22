@@ -1,4 +1,4 @@
-# inside only for linux
+# Inside only for linux
 
 1. Download and unzip the archive https://github.com/hepq-source/inside (or `git clone https://github.com/hepq-source/inside && cd inside`)
 2. **Make sure that you have installed the packages `curl`, `iptables` and `ipset' (for FWTYPE=iptables) or `curl` and `nftables' (for FWTYPE=nftables)! If not, install it. If you don't know how, ask AI!**
