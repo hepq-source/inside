@@ -1,0 +1,14 @@
+[Unit]
+Description=inside
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+WorkingDirectory=/opt/inside
+ExecStart=/bin/bash /opt/inside/system/starter.sh
+ExecStop=/bin/bash /opt/inside/system/stopper.sh
+
+[Install]
+WantedBy=multi-user.target
