@@ -8,6 +8,7 @@ cdninstagram.com
 censorship.no
 censortracker.org
 cloudflare-ech.com
+cloudflare.com
 conversations.im
 discord-attachments-uploads-prd.storage.googleapis.com
 discord.com
@@ -33,6 +34,7 @@ linkedin.com
 linktr.ee
 lolz.guru
 matrix.org
+minecraft.net
 matrix.to
 medium.com
 musixmatch.com
@@ -54,6 +56,7 @@ rentry.co
 rentry.org
 riseup.net
 roskomsvoboda.org
+roblox.com
 rutracker.org
 signal.org
 soundcloud.com
