@@ -22,6 +22,7 @@ fbcdn.net
 fbsbx.com
 ficbook.net
 files.catbox.moe
+firefox.com
 gekkk.co
 ggpht.com
 gitlab.com
@@ -50,6 +51,13 @@ picuki.com
 play.google.com
 prnt.sc
 proton.me
+pass.proton.me
+mail.proton.me
+lumo.proton.me
+wallet.proton.me
+drive.proton.me
+account.proton.me
+calendar.proton.me
 protonmail.com
 protonvpn.com
 psiphon.ca
@@ -57,8 +65,8 @@ quora.com
 rentry.co
 rentry.org
 riseup.net
-roskomsvoboda.org
 roblox.com
+roskomsvoboda.org
 rutracker.org
 signal.org
 soundcloud.com
