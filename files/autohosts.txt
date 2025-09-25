@@ -24,6 +24,8 @@ ficbook.net
 files.catbox.moe
 gekkk.co
 ggpht.com
+gitlab.com
+github.com
 godaddy.com
 googlevideo.com
 imagedelivery.net
